@@ -1,3 +1,3 @@
 # music-app
-Really basic music player, just for fun
+It's NOT my work, I just modified some stuff for fun
 Live Preview:
