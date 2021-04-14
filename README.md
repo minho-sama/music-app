@@ -1,2 +1,3 @@
 # music-app
-hope its working
+Really basic music player, just for fun
+Live Preview:
