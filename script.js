@@ -43,8 +43,8 @@ function changeBackground(index){
     }
 }
 
-//initial background
-changeBackground(1)
+//initial background on load
+window.onload = changeBackground(songIndex)
 
 // Initially load song details into DOM
 loadSong(songs[songIndex]);
